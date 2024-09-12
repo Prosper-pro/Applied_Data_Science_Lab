@@ -1,39 +1,20 @@
-# WorldQuant Applied Data Science Lab
-Here you can find all the 8 projects of WorldQuant's Data Science Program along with my certification. 
+## WorldQuant Applied Data Science Lab:  My Data Science Superpower Journey! 🦸‍♀️
 
-I'm exhilarated to share that I have successfully completed WorldQuant's Data Science Program, a transformative journey that has broadened my skills and knowledge in the field of data science! 🎓 ✨ 
+I’m bursting with excitement to announce that I’ve graduated from WorldQuant's Applied Data Science Lab! 🎓 This wasn't just a course; it was a full-blown data science bootcamp, and now I'm ready to unleash my newfound data superpowers! ✨
 
-Check my badge: https://www.credly.com/badges/4480df1c-d561-4ef8-9852-79b5748e0c73/public_url
+Check out my shiny new badge: https://www.credly.com/badges/9e704673-4d99-4551-bf73-5f13a9fdd776/public_url
 
+Get ready for a whirlwind tour of my 8 epic data adventures:
 
-Throughout the program, I had the opportunity to work on eight fascinating projects, each designed to enhance my understanding and practical application of key data science concepts. Let me provide a brief explanation of each project:
+1. **Mexico Housing Hustle:**  We tackled the tricky question: location vs. size - which is king in Mexican real estate? We cleaned data like a pro, built cool visualizations, and used correlation to uncover the truth about property prices. 
+2. **Buenos Aires Apartment Adventures:** Using a linear regression model, we predicted apartment prices in Argentina.  We wrangled missing data, encoded features, and even fought off overfitting to get the best model possible.
+3. **Nairobi Air Quality Quest:** This project was a real-world challenge! We built an ARMA time series model to predict air pollution levels in Nairobi. We used pymongo to extract data from a MongoDB database and fine-tuned our model for peak performance.
+4. **Nepal Earthquake Data Detectives:**  We built logistic regression and decision tree models to predict earthquake damage to buildings in Nepal. We even learned about data biases and discrimination that can creep into our models. 
+5. **Poland's Bankrupt Business Battle:**  We used random forests and gradient boosting to predict if Polish companies would go bankrupt. We even navigated the Linux command line, a data scientist's secret weapon!
+6. **US Customer Clustering Conundrum:**  We used a k-means model to cluster US consumers into groups. We even used principal component analysis (PCA) for some data visualization magic and created an interactive dashboard with Plotly Dash – a truly dazzling project!
+7. **WorldQuant University Email Experiment:**  We ran an A/B test to see if sending emails could increase enrollment in WorldQuant University programs. We built a custom ETL process and an interactive data application using a three-tiered design – talk about a data science party trick!
+8. **India Stock Market Volatility Venture:**  We built a GARCH time series model to predict asset volatility in India.  We even built our own API to serve model predictions – we were like data science rockstars! 
 
-
-1- 𝗛𝗢𝗨𝗦𝗜𝗡𝗚 𝗜𝗡 𝗠𝗘𝗫𝗜𝗖𝗢: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
-
-
-2- 𝗔𝗣𝗔𝗥𝗧𝗠𝗘𝗡𝗧 𝗦𝗔𝗟𝗘𝗦 𝗜𝗡 𝗕𝗨𝗘𝗡𝗢𝗦 𝗔𝗜𝗥𝗘𝗦: Learners build a linear regression model to predict apartment prices in Argentina. They create a data pipeline to impute missing values and encode categorical features, and they improve model performance by reducing overfitting.
-
-
-3- 𝗔𝗜𝗥 𝗤𝗨𝗔𝗟𝗜𝗧𝗬 𝗜𝗡 𝗡𝗔𝗜𝗥𝗢𝗕𝗜: Learners build an ARMA time-series model to predict particulate matter levels in Kenya. They extract data from a MongoDB database using pymongo, and improve model performance through hyperparameter tuning.
-
-
-4- 𝗘𝗔𝗥𝗧𝗛𝗤𝗨𝗔𝗞𝗘 𝗗𝗔𝗠𝗔𝗚𝗘 𝗜𝗡 𝗡𝗘𝗣𝗔𝗟: Learners build logistic regression and decision tree models to predict earthquake damage to buildings. They extract data from a SQLite database, and reveal the biases in data that can lead to discrimination.
-
-
-5- 𝗕𝗔𝗡𝗞𝗥𝗨𝗣𝗧𝗖𝗬 𝗜𝗡 𝗣𝗢𝗟𝗔𝗡𝗗: Learners build random forest and gradient boosting models to predict whether a company will go bankrupt. They navigate the Linux command line, address imbalanced data through resampling, and consider the impact of performance metrics precision and recall.
-
-
-6- 𝗖𝗨𝗦𝗧𝗢𝗠𝗘𝗥 𝗦𝗘𝗚𝗠𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡 𝗜𝗡 𝗧𝗛𝗘 𝗨𝗦: Learners build a k-means model to cluster US consumers into groups. They use principal component analysis (PCA) for data visualization, and they create an interactive dashboard with Plotly Dash.
-
-
-7- 𝗔/𝗕 𝗧𝗘𝗦𝗧𝗜𝗡𝗚 𝗔𝗧 𝗪𝗢𝗥𝗟𝗗𝗤𝗨𝗔𝗡𝗧 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗜𝗧𝗬: Learners conduct a chi-square test to determine if sending an email can increase program enrollment at WQU. They build custom Python classes to implement an ETL process, and they create an interactive data application following a three-tiered design pattern.
-
-
-8- 𝗩𝗢𝗟𝗔𝗧𝗜𝗟𝗜𝗧𝗬 𝗙𝗢𝗥𝗘𝗖𝗔𝗦𝗧𝗜𝗡𝗚 𝗜𝗡 𝗜𝗡𝗗𝗜𝗔:Learners create a GARCH time series model to predict asset volatility. They acquire stock data through an API, clean and store it in a SQLite database, and build their own API to serve model predictions.
-
-
-
-I want to express my heartfelt gratitude to WorldQuant for providing an exceptional learning experience. The program's comprehensive curriculum and hands-on projects have equipped me with practical skills and a deep understanding of data science techniques.
+WorldQuant, you guys rock! Thanks for an amazing learning experience. Now, it's time for me to unleash my data science superpowers on the world! 🌎🚀 
 
 
